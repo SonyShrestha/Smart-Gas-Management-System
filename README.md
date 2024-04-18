@@ -1,2 +1,4 @@
 # Smart-Gas-Management-System
 IOT based Smart Gas Management System
+
+This project is related to development of an IoT-based Smart Gas Management System aimed at mitigating gas leakage and fire hazards in residential and commercial settings. Leveraging innovative sensor technologies and GSM communication, the system detects gas leakage and fire outbreaks in real-time, promptly notifying users via SMS and calls for immediate action. Additionally, the integration of load sensors enables automatic gas cylinder booking by alerting the booking agency when the cylinder weight falls below a predefined threshold. This project underscores proficiency in IoT, sensor integration, and user-centric design, showcasing the ability to address critical safety concerns and enhance operational efficiency in gas management.
